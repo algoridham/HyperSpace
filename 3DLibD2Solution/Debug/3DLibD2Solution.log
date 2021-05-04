@@ -1,0 +1,17 @@
+﻿  MainFrame.cpp
+F:\Work\College\Sem 6\Project\Code\LetsMakeItNow\3DLibD2Solution\3DLibD2Solution\Shape.h(117,27): warning C4018: '<': signed/unsigned mismatch
+F:\Work\College\Sem 6\Project\Code\LetsMakeItNow\3DLibD2Solution\3DLibD2Solution\Shape.h(145,28): warning C4018: '<': signed/unsigned mismatch
+F:\Work\College\Sem 6\Project\Code\LetsMakeItNow\3DLibD2Solution\3DLibD2Solution\Shape.h(182,27): warning C4018: '<': signed/unsigned mismatch
+F:\Work\College\Sem 6\Project\Code\LetsMakeItNow\3DLibD2Solution\3DLibD2Solution\Shape.h(214,28): warning C4018: '<': signed/unsigned mismatch
+F:\Work\College\Sem 6\Project\Code\LetsMakeItNow\3DLibD2Solution\3DLibD2Solution\Grid.h(42,29): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+F:\Work\College\Sem 6\Project\Code\LetsMakeItNow\3DLibD2Solution\3DLibD2Solution\Grid.h(43,28): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+F:\Work\College\Sem 6\Project\Code\LetsMakeItNow\3DLibD2Solution\3DLibD2Solution\Grid.h(44,16): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+F:\Work\College\Sem 6\Project\Code\LetsMakeItNow\3DLibD2Solution\3DLibD2Solution\Grid.h(45,16): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+F:\Work\College\Sem 6\Project\Code\LetsMakeItNow\3DLibD2Solution\3DLibD2Solution\Conus.h(29,20): warning C4018: '<': signed/unsigned mismatch
+F:\Work\College\Sem 6\Project\Code\LetsMakeItNow\3DLibD2Solution\3DLibD2Solution\Conus.h(32,20): warning C4018: '<': signed/unsigned mismatch
+F:\Work\College\Sem 6\Project\Code\LetsMakeItNow\3DLibD2Solution\3DLibD2Solution\Conus.h(36,20): warning C4018: '<': signed/unsigned mismatch
+F:\Work\College\Sem 6\Project\Code\LetsMakeItNow\3DLibD2Solution\3DLibD2Solution\Conus.h(39,20): warning C4018: '<': signed/unsigned mismatch
+F:\Work\College\Sem 6\Project\Code\LetsMakeItNow\3DLibD2Solution\3DLibD2Solution\Conus.h(44,20): warning C4018: '<': signed/unsigned mismatch
+F:\Work\College\Sem 6\Project\Code\LetsMakeItNow\3DLibD2Solution\3DLibD2Solution\Conus.h(47,20): warning C4018: '<': signed/unsigned mismatch
+F:\Work\College\Sem 6\Project\Code\LetsMakeItNow\3DLibD2Solution\3DLibD2Solution\GLPaneRenderer.h(34,22): warning C4305: 'initializing': truncation from 'double' to 'float'
+  3DLibD2Solution.vcxproj -> F:\Work\College\Sem 6\Project\Code\LetsMakeItNow\3DLibD2Solution\Debug\3DLibD2Solution.exe

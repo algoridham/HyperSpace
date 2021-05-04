@@ -1,0 +1,40 @@
+﻿  GLPaneRenderer.cpp
+F:\Work\College\Sem 6\Project\Code\LetsMakeItNow\3DLibD2Solution\3DLibD2Solution\Shape.h(124,27): warning C4018: '<': signed/unsigned mismatch
+F:\Work\College\Sem 6\Project\Code\LetsMakeItNow\3DLibD2Solution\3DLibD2Solution\Shape.h(152,28): warning C4018: '<': signed/unsigned mismatch
+F:\Work\College\Sem 6\Project\Code\LetsMakeItNow\3DLibD2Solution\3DLibD2Solution\Shape.h(189,27): warning C4018: '<': signed/unsigned mismatch
+F:\Work\College\Sem 6\Project\Code\LetsMakeItNow\3DLibD2Solution\3DLibD2Solution\Shape.h(221,28): warning C4018: '<': signed/unsigned mismatch
+F:\Work\College\Sem 6\Project\Code\LetsMakeItNow\3DLibD2Solution\3DLibD2Solution\Grid.h(42,29): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+F:\Work\College\Sem 6\Project\Code\LetsMakeItNow\3DLibD2Solution\3DLibD2Solution\Grid.h(43,28): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+F:\Work\College\Sem 6\Project\Code\LetsMakeItNow\3DLibD2Solution\3DLibD2Solution\Grid.h(44,16): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+F:\Work\College\Sem 6\Project\Code\LetsMakeItNow\3DLibD2Solution\3DLibD2Solution\Grid.h(45,16): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+F:\Work\College\Sem 6\Project\Code\LetsMakeItNow\3DLibD2Solution\3DLibD2Solution\Conus.h(29,20): warning C4018: '<': signed/unsigned mismatch
+F:\Work\College\Sem 6\Project\Code\LetsMakeItNow\3DLibD2Solution\3DLibD2Solution\Conus.h(32,20): warning C4018: '<': signed/unsigned mismatch
+F:\Work\College\Sem 6\Project\Code\LetsMakeItNow\3DLibD2Solution\3DLibD2Solution\Conus.h(36,20): warning C4018: '<': signed/unsigned mismatch
+F:\Work\College\Sem 6\Project\Code\LetsMakeItNow\3DLibD2Solution\3DLibD2Solution\Conus.h(39,20): warning C4018: '<': signed/unsigned mismatch
+F:\Work\College\Sem 6\Project\Code\LetsMakeItNow\3DLibD2Solution\3DLibD2Solution\Conus.h(44,20): warning C4018: '<': signed/unsigned mismatch
+F:\Work\College\Sem 6\Project\Code\LetsMakeItNow\3DLibD2Solution\3DLibD2Solution\Conus.h(47,20): warning C4018: '<': signed/unsigned mismatch
+F:\Work\College\Sem 6\Project\Code\LetsMakeItNow\3DLibD2Solution\3DLibD2Solution\GLPaneRenderer.h(35,22): warning C4305: 'initializing': truncation from 'double' to 'float'
+F:\Work\College\Sem 6\Project\Code\LetsMakeItNow\3DLibD2Solution\3DLibD2Solution\Skybox.h(27,27): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+F:\Work\College\Sem 6\Project\Code\LetsMakeItNow\3DLibD2Solution\3DLibD2Solution\Skybox.h(28,28): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+F:\Work\College\Sem 6\Project\Code\LetsMakeItNow\3DLibD2Solution\3DLibD2Solution\Skybox.h(33,27): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+F:\Work\College\Sem 6\Project\Code\LetsMakeItNow\3DLibD2Solution\3DLibD2Solution\Skybox.h(34,28): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+F:\Work\College\Sem 6\Project\Code\LetsMakeItNow\3DLibD2Solution\3DLibD2Solution\Skybox.h(39,27): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+F:\Work\College\Sem 6\Project\Code\LetsMakeItNow\3DLibD2Solution\3DLibD2Solution\Skybox.h(40,28): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+F:\Work\College\Sem 6\Project\Code\LetsMakeItNow\3DLibD2Solution\3DLibD2Solution\Skybox.h(45,28): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+F:\Work\College\Sem 6\Project\Code\LetsMakeItNow\3DLibD2Solution\3DLibD2Solution\Skybox.h(46,25): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+F:\Work\College\Sem 6\Project\Code\LetsMakeItNow\3DLibD2Solution\3DLibD2Solution\Skybox.h(51,27): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+F:\Work\College\Sem 6\Project\Code\LetsMakeItNow\3DLibD2Solution\3DLibD2Solution\Skybox.h(52,28): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+F:\Work\College\Sem 6\Project\Code\LetsMakeItNow\3DLibD2Solution\3DLibD2Solution\Skybox.h(57,28): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+F:\Work\College\Sem 6\Project\Code\LetsMakeItNow\3DLibD2Solution\3DLibD2Solution\Skybox.h(58,25): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+F:\Work\College\Sem 6\Project\Code\LetsMakeItNow\3DLibD2Solution\3DLibD2Solution\GLPaneRenderer.cpp(9,33): warning C4305: 'argument': truncation from 'double' to 'GLclampf'
+F:\Work\College\Sem 6\Project\Code\LetsMakeItNow\3DLibD2Solution\3DLibD2Solution\GLPaneRenderer.cpp(54,16): warning C4018: '<': signed/unsigned mismatch
+F:\Work\College\Sem 6\Project\Code\LetsMakeItNow\3DLibD2Solution\3DLibD2Solution\GLPaneRenderer.cpp(77,8): warning C4101: 'viewport': unreferenced local variable
+F:\Work\College\Sem 6\Project\Code\LetsMakeItNow\3DLibD2Solution\3DLibD2Solution\GLPaneRenderer.cpp(113,20): warning C4018: '<': signed/unsigned mismatch
+F:\Work\College\Sem 6\Project\Code\LetsMakeItNow\3DLibD2Solution\3DLibD2Solution\GLPaneRenderer.cpp(268,20): warning C4018: '<': signed/unsigned mismatch
+     Creating library F:\Work\College\Sem 6\Project\Code\LetsMakeItNow\3DLibD2Solution\Release\3DLibD2Solution.lib and object F:\Work\College\Sem 6\Project\Code\LetsMakeItNow\3DLibD2Solution\Release\3DLibD2Solution.exp
+  Generating code
+  2 of 670 functions ( 0.3%) were compiled, the rest were copied from previous compilation.
+    1 functions were new in current compilation
+    17 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  3DLibD2Solution.vcxproj -> F:\Work\College\Sem 6\Project\Code\LetsMakeItNow\3DLibD2Solution\Release\3DLibD2Solution.exe
